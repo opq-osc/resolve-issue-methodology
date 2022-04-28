@@ -27,7 +27,7 @@
 
 你真的遇到问题了吗，是不是没有看文档？
 
-<img width='30%' src='https://cdn.jsdelivr.net/gh/fz6m/Private-picgo@moe-2021/img/20220428183353.jpeg' />
+<img width='50%' src='https://cdn.jsdelivr.net/gh/fz6m/Private-picgo@moe-2021/img/20220428183353.jpeg' />
 
 这些资源可能对你有用：
 
@@ -45,11 +45,11 @@
 
 #### Question Art 1
 
-<img width='30%' src='https://cdn.jsdelivr.net/gh/fz6m/Private-picgo@moe-2021/img/20220428192047.jpg' />
+<img width='50%' src='https://cdn.jsdelivr.net/gh/fz6m/Private-picgo@moe-2021/img/20220428192047.jpg' />
 
 #### Question Art 2
 
-<img width='30%' src='https://cdn.jsdelivr.net/gh/fz6m/Private-picgo@moe-2021/img/20220428192205.jpg' />
+<img width='50%' src='https://cdn.jsdelivr.net/gh/fz6m/Private-picgo@moe-2021/img/20220428192205.jpg' />
 
 ### 我可以自己解决问题
 
@@ -59,11 +59,11 @@
 
 #### Action Art 1
 
-<img width='35%' src='https://cdn.jsdelivr.net/gh/fz6m/Private-picgo@moe-2021/img/20220428192441.jpg' />
+<img width='50%' src='https://cdn.jsdelivr.net/gh/fz6m/Private-picgo@moe-2021/img/20220428192441.jpg' />
 
 #### Action Art 2
 
-<img width='30%' src='https://cdn.jsdelivr.net/gh/fz6m/Private-picgo@moe-2021/img/20220428192600.jpg' />
+<img width='50%' src='https://cdn.jsdelivr.net/gh/fz6m/Private-picgo@moe-2021/img/20220428192600.jpg' />
 
 ### 我无法解决问题
 
@@ -73,11 +73,11 @@
 
 #### Money Art 1
 
-<img width='20%' src='https://cdn.jsdelivr.net/gh/fz6m/Private-picgo@moe-2021/img/20220428192932.jpg' />
+<img width='35%' src='https://cdn.jsdelivr.net/gh/fz6m/Private-picgo@moe-2021/img/20220428192932.jpg' />
 
 #### Money Art 2
 
-<img width='20%' src='https://cdn.jsdelivr.net/gh/fz6m/Private-picgo@moe-2021/img/20220428193008.jpg' />
+<img width='35%' src='https://cdn.jsdelivr.net/gh/fz6m/Private-picgo@moe-2021/img/20220428193008.jpg' />
 
 ## 后记
 
@@ -87,13 +87,13 @@
 
 只解决问题往往浮于浅层，如何权衡好要解的问题？要解决什么问题？是一个值得思考的问题。
 
-<img width='30%' src='https://cdn.jsdelivr.net/gh/fz6m/Private-picgo@moe-2021/img/20220428193320.jpg' />
+<img width='45%' src='https://cdn.jsdelivr.net/gh/fz6m/Private-picgo@moe-2021/img/20220428193320.jpg' />
 
 ### 解决问题的心流
 
 解决问题要循序渐进，为什么自己总是遇到问题？为什么有这么多问题？是一个值得思考的问题。
 
-<img width='30%' src='https://cdn.jsdelivr.net/gh/fz6m/Private-picgo@moe-2021/img/20220428193412.jpg' />
+<img width='45%' src='https://cdn.jsdelivr.net/gh/fz6m/Private-picgo@moe-2021/img/20220428193412.jpg' />
 
 ### 其实我没有问题
 
