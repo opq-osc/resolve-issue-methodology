@@ -31,9 +31,9 @@
 
 这些资源可能对你有用：
 
- - [OPQ 文档站](https://docs.opqbot.com/)
+ - [OPQ 文档站](https://docs.opqbot.com)
 
- - [OPQ Wiki](https://github.com/opq-osc/OPQ/wiki)
+ - [OPQ Wiki](https://wiki.opqbot.com)
 
 ### 我真的遇到了问题
 
